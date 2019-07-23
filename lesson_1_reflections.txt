@@ -1,0 +1,41 @@
+Reflection 1: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+Ans: I have used edit compare program to view the differences between the two versions of the file. It felt good to be able to find difference without going through each line manually
+
+Reflection 2: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+Ans: As a programmer I am aware that there are chances of typos and other manual miatakes to happen during coding process.If entire history of all the modifications are saved then it will help in debugging an rolling back to te last working version of the code.This will reduce the second guessing on what might have caused the current issue as well as debugging time.
+
+Reflection 3: What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+Ans: 
+Pros: a programmer can control when to commit,so it will not be a mid sentence commit. Automatic commit can happen even befor the entire work needed for that particular task is completed.
+Cons: Manual commit can cause issues if the person forgets it or the commit chunk is too big to debug in case of failures.
+
+Reflection 4:Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Ans: Git is mostly used for coding and it can have ultiple files related to each other.So,in this case saving multiple fles in each commit is the best way to avoid any inconsistencies. 
+Whereas Google Docs might consider each document separate from other hence do not need all the files to be saved with each commit.
+
+Reflection 5:How can you use the commands git log and git diff to view the history of files?
+Ans: git log will have all teh commit history and scanning the commit statement will tell us the reason for commit.
+git diff can be used to check the insertion and deletion or the differences between the 2 commit files.
+
+Reflection 6: How might using version control make you more confident to make changes that could break something?
+Ans: Git provides the facility to revert back to an older version of code if a bug is introduced in newer version of the code.This facility enables to identify exactly the commit that got the bug intrduced and then correct the code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
