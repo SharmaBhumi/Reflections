@@ -8,8 +8,8 @@ c) if it's the requirement
 
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
+Ans: Manual pull will ensure that the commits or updates are pull from correct branch.
 
-    Fill in your answer here
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
